@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
     'Hendrik Frahmann' => 'contact@hendrik-frahmann.de'
   }
   s.source = {
-    :git => 'https://github.com/hfrahmann/HFCardCollectionViewLayout.git',
+    :git => 'https://github.com/basicemotions/HFCardCollectionViewLayout.git',
     :tag => '0.4.2'
   }
   s.source_files = 'Source/*'
